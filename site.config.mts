@@ -1,5 +1,5 @@
 import type { AstroInstance } from 'astro';
-import { Github, Instagram } from 'lucide-astro';
+import { Github, Instagram, Mail } from 'lucide-astro';
 
 export interface SocialLink {
 	name: string;
@@ -8,7 +8,7 @@ export interface SocialLink {
 }
 
 export default {
-	title: 'KM',
+	title: 'MS',
 	favicon: 'favicon.ico',
 	owner: 'Kian Milani',
 	profileImage: 'profile.webp',
@@ -22,6 +22,11 @@ export default {
 			name: 'Instagram',
 			url: 'https://www.instagram.com',
 			icon: Instagram,
+		} as SocialLink,	
+		{
+			name: 'Gmail',
+			url: 'mailto:milanishots@gmail.com?subject=Hi mom&body=I miss you',
+			icon: Mail,
 		} as SocialLink,
 	],
 };

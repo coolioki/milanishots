@@ -93,12 +93,13 @@ images:
       description: ''
       collections:
         - nature
-    exif: {}   
+    exif: {}
   - path: miscellaneous/nature-1.jpg
     meta:
       title: Nature 1
       description: ''
       collections:
-        - nature
-    exif: {}
-
+        - miscellaneous
+    exif: {}   
+  
+  
