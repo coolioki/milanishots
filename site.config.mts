@@ -11,7 +11,7 @@ export default {
 	title: 'MS',
 	favicon: 'favicon.ico',
 	owner: 'Kian Milani',
-	profileImage: 'profile.webp',
+	profileImage: 'logo.webp',
 	socialLinks: [
 		{
 			name: 'GitHub',
@@ -20,12 +20,12 @@ export default {
 		} as SocialLink,
 		{
 			name: 'Instagram',
-			url: 'https://www.instagram.com',
+			url: 'https://www.instagram.com/milanishots/',
 			icon: Instagram,
 		} as SocialLink,	
 		{
 			name: 'Gmail',
-			url: 'mailto:milanishots@gmail.com?subject=Hi mom&body=I miss you',
+			url: 'mailto:milanishots@gmail.com',
 			icon: Mail,
 		} as SocialLink,
 	],
