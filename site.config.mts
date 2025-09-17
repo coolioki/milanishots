@@ -8,7 +8,7 @@ export interface SocialLink {
 }
 
 export default {
-	title: 'MS',
+	title: '.',
 	favicon: 'favicon.ico',
 	owner: 'Kian Milani',
 	profileImage: 'logo.webp',
