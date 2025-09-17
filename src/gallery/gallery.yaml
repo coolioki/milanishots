@@ -1,5 +1,5 @@
 collections:
-  - id: nature
+  - id: football
     name: Football
   - id: travel
     name: Soccer
@@ -12,50 +12,50 @@ collections:
   - id: miscellaneous
     name: Miscellaneous
 images:
-  - path: nature/nature-2.jpg
+  - path: football/nature-2.jpg
     meta:
       title: Nature scene 2
       description: Serene natural landscape capturing the essence of wilderness.
       collections:
-        - nature
+        - football
     exif: {}
-  - path: nature/nature-3.jpg
+  - path: football/nature-3.jpg
     meta:
       title: Nature scene 3
       description: Breathtaking natural vista showcasing environmental beauty.
       collections:
         - featured
-        - nature
+        - football
     exif: {}
-  - path: nature/nature-5.jpg
+  - path: football/nature-5.jpg
     meta:
       title: Nature scene 5
       description: Natural landscape showing the raw beauty of the environment.
       collections:
-        - nature
+        - football
     exif: {}
-  - path: nature/nature-7.jpg
+  - path: football/nature-7.jpg
     meta:
       title: Nature scene 7
       description: Stunning natural landscape capturing environmental beauty.
       collections:
         - featured
-        - nature
+        - football
     exif: {}
-  - path: nature/nature-8.jpg
+  - path: football/nature-8.jpg
     meta:
       title: Nature scene 8
       description: Beautiful natural vista showcasing environmental wonder.
       collections:
-        - nature
+        - football
     exif: {}
-  - path: nature/L1002174.jpg
+  - path: football/L1002174.jpg
     meta:
       title: Travel scene 6
       description: null
       collections:
         - featured
-        - nature
+        - football
     exif:
       captureDate: 2025-03-27T10:35:21.000Z
       fNumber: 8
@@ -64,12 +64,12 @@ images:
       model: LEICA Q3
       shutterSpeed: 1250
       lensModel: SUMMILUX 1:1.7/28 ASPH.
-  - path: nature/nature-10.jpg
+  - path: football/nature-10.jpg
     meta:
       title: Nature scene 10
       description: Majestic natural landscape displaying environmental splendor.
       collections:
-        - nature
+        - football
     exif: {}
   - path: street/stree-1.jpg
     meta:
