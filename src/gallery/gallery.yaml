@@ -1,9 +1,9 @@
 collections:
   - id: football
     name: Football
-  - id: travel
+  - id: soccer
     name: Soccer
-  - id: street
+  - id: basketball
     name: Basketball  
   - id: volleyball
     name: Volleyball
@@ -71,28 +71,28 @@ images:
       collections:
         - football
     exif: {}
-  - path: street/stree-1.jpg
+  - path: basketball/stree-1.jpg
     meta:
       title: Street photography 1
       description: Urban scene capturing the essence of city life.
       collections:
         - featured
-        - street
+        - basketball
     exif: {}
-  - path: travel/travel-1.jpg
+  - path: soccer/travel-1.jpg
     meta:
       title: Travel scene 1
       description: Journey through remarkable destinations.
       collections:
         - featured
-        - travel
+        - soccer
     exif: {}
-  - path: nature/nature-1.jpg
+  - path: football/nature-1.jpg
     meta:
       title: Nature 1
       description: ''
       collections:
-        - nature
+        - football
     exif: {}
   - path: miscellaneous/nature-1.jpg
     meta:
