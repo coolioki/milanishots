@@ -1,10 +1,16 @@
 collections:
   - id: nature
-    name: Nature
+    name: Football
   - id: travel
-    name: Travel
+    name: Soccer
   - id: street
-    name: Street
+    name: Basketball  
+  - id: volleyball
+    name: Volleyball
+  - id: baseball
+    name: Baseball
+  - id: miscellaneous
+    name: Miscellaneous
 images:
   - path: nature/nature-2.jpg
     meta:
@@ -87,4 +93,12 @@ images:
       description: ''
       collections:
         - nature
+    exif: {}   
+  - path: miscellaneous/nature-1.jpg
+    meta:
+      title: Nature 1
+      description: ''
+      collections:
+        - nature
     exif: {}
+

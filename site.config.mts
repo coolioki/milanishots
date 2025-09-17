@@ -8,9 +8,9 @@ export interface SocialLink {
 }
 
 export default {
-	title: 'SR',
+	title: 'KM',
 	favicon: 'favicon.ico',
-	owner: 'Sara Richard',
+	owner: 'Kian Milani',
 	profileImage: 'profile.webp',
 	socialLinks: [
 		{
